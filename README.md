@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ivan Berenguer</h1>
- 💬 Ask me about **Python*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
